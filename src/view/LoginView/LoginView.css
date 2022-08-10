@@ -1,0 +1,26 @@
+.login-view-container {
+    width           : 100%;
+    min-height      : 100vh;
+    height          : 100%;
+    display         : flex;
+    justify-content : center;
+    align-items     : center;
+    background-color: #A6D1E6;
+
+}
+
+.login-view-inner-container {
+    padding: 100px;
+    background-color: #FEFBF6;
+    border-radius: 35px;
+    align-items: center;
+}
+.login-view-input{
+    padding: 12px;
+}
+.login-view-button{
+    padding: 12px;
+    justify-content: flex-end;
+    display: flex;
+
+}
